@@ -43,3 +43,7 @@ Checking your Azure quota is critical to ensure you have sufficient resources to
 > ![](./assets/register-provider.png)
 
 This proactive approach to preparing for the workshop will help you maximize your learning experience and practical application during the session.
+
+## Preparatory Learning
+
+Enhance your understanding of Azure fundamentals by exploring the **Azure Mastery: Building Smarter Bots** series available through LinkedIn or this repository: https://github.com/Katerina-Chernevskaya/azure-mastery. This series is ongoing, so keep an eye on new content and updates to stay current. Familiarize yourself with the core terms and concepts that we will use and explore during the workshop. This foundational knowledge will help you engage more effectively in the learning activities and practical applications.
